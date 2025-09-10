@@ -27,6 +27,7 @@ const Header = () => {
                 console.error("Logout error:", error);
             });
     };
+
     const navigateTo = (path) => {
         navigate(path);
         closeNavbar();
@@ -37,6 +38,9 @@ const Header = () => {
             setIsNavCollapsed(true);
         }
     };
+
+    // Check if the user is an admin
+    const isAdmin = user && (user.email === "bidsphere@gmail.com" || user.email === "vivek@gmail.com");
 
     return (
         <header>
@@ -129,7 +133,7 @@ const Header = () => {
                                         Profile
                                     </button>
                                 </li>
-                                {user.email === "bidsphere@gmail.com" || "vivek@gmail.com" && (
+                                {isAdmin && (
                                     <li className="nav-item">
                                         <button 
                                             className="nav-link nav-button" 
