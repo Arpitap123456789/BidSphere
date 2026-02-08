@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Arpitap123456789/BidSphere/static/css/main.24c4e072.css",
+    "main.js": "/Arpitap123456789/BidSphere/static/js/main.bd29d117.js",
+    "index.html": "/Arpitap123456789/BidSphere/index.html",
+    "main.24c4e072.css.map": "/Arpitap123456789/BidSphere/static/css/main.24c4e072.css.map",
+    "main.bd29d117.js.map": "/Arpitap123456789/BidSphere/static/js/main.bd29d117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24c4e072.css",
+    "static/js/main.bd29d117.js"
+  ]
+}
