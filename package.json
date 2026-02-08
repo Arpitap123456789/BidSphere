@@ -1,5 +1,5 @@
 {
-  "homepage": "https://janardan04.github.io/BidSphere-Auction",
+  "homepage": "https://github.com/Arpitap123456789/BidSphere",
   "name": "BidSphere-Auction",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build && copy build\\index.html public\\404.html",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
