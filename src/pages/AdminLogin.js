@@ -20,9 +20,7 @@ const AdminLogin = () => {
   // Hardcoded admin credentials
   const ADMINS = [
     { email: 'bidsphere@gmail.com', password: 'admin123' },
-    { email: 'vivek@gmail.com', password: 'Vivek@123' }
   ];
-
   const handleLogin = (e) => {
     e.preventDefault();
     setError('');

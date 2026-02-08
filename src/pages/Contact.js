@@ -13,13 +13,13 @@ const Contact = () => {
                     <h2 className="text-center text-primary">Get in Touch</h2>
                     <ul className="list-group list-group-flush mb-4">
                         <li className="list-group-item">
-                            <strong>Email:</strong> support@bidsphere.com
+                            <strong>Email:</strong>support@bidsphere.com
                         </li>
                         <li className="list-group-item">
-                            <strong>Phone:</strong> +91-7038544159
+                            <strong>Phone:</strong> +91-8888008888
                         </li>
                         <li className="list-group-item">
-                            <strong>Address:</strong> 123 Auction Lane, Bid City, BC 45678
+                            <strong>Address:</strong> 123 Auction Lane, Mumbai
                         </li>
                     </ul>
 
@@ -28,7 +28,7 @@ const Contact = () => {
                         <div className="col-md-6 mb-3">
                             <div className="card h-100">
                                 <div className="card-body">
-                                    <h5 className="card-title">Janardan Borse</h5>
+                                    <h5 className="card-title">Arpita Kakulate</h5>
                                     <p className="card-text"><strong>Co-Founder</strong></p>
                                     <p className="card-text">
                                         Email:{' '}
@@ -36,22 +36,7 @@ const Contact = () => {
                                             bidsphere@gmail.com
                                         </a>
                                     </p>
-                                    <p className="card-text">Mobile: 7038544159</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-md-6 mb-3">
-                            <div className="card h-100">
-                                <div className="card-body">
-                                    <h5 className="card-title">Vivek Bhandare</h5>
-                                    <p className="card-text"><strong>Co-Founder</strong></p>
-                                    <p className="card-text">
-                                        Email:{' '}
-                                        <a href="mailto:vivek@bidsphere.com">
-                                            vivek@bidsphere.com
-                                        </a>
-                                    </p>
-                                    <p className="card-text">Mobile: [Contact Vivek for details]</p>
+                                    <p className="card-text">Mobile: 8500888800</p>
                                 </div>
                             </div>
                         </div>

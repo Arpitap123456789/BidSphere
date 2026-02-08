@@ -19,8 +19,7 @@ const AboutUs = () => {
 
                 <div className="team">
                     <h2>Our Team</h2>
-                    <div className="team-member">Janardan Borse</div>
-                    <div className="team-member">Vivek Bhandare</div>
+                    <div className="team-member">Arpita Kakulate</div>                
                 </div>
             </div>
 
